@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Node test ",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing task"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

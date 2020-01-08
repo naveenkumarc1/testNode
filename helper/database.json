@@ -1,0 +1,8 @@
+{
+    "local": {
+        "db_name": "testnode",
+        "host_name": "localhost",
+        "db_user": "",
+        "db_password": ""
+    }
+}
